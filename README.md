@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dhiraj,S oftware Development professional with experience creating scalable and predictable web and mobile applications. Experienced in Python, C++, Full Stack Development, Flutter & Firebase, Javascript/Typescript.
+I am Dhiraj, Software Development professional with experience creating scalable and predictable web and mobile applications. Experienced in Python, C++, Full Stack Development, Flutter & Firebase, Javascript/Typescript.
 
 ### Currently working with
 🔭 NextJS, Flutter, SvelteKit, Tailwind, NodeJS and Django(RF).
