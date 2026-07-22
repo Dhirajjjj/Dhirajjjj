@@ -1,2 +1,2 @@
-[![Website Badge](https://img.shields.io/badge/Website-10000?style=flat-square&color=black&logoColor=white)](https://dhirajjjj-e941e.web.app/)
+[![Website Badge](https://img.shields.io/badge/Website-10000?style=flat-square&color=white&logoColor=black)](https://dhiraj.xyz/)
 
